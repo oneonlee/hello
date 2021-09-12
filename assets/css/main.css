@@ -2055,7 +2055,7 @@ body.is-touch .main {
   .main.style2 .content {
     width: 100%;
     max-width: 100%;
-    text-align: center;
+/*     text-align: center; */
     -moz-transform: none;
     -webkit-transform: none;
     -ms-transform: none;
